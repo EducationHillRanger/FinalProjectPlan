@@ -15,3 +15,8 @@ Final project plan
 * 1.3: Add suggestions for people who want to follow a workout plan
 *
 * 2.0: Allow people to go premium: e.g. allow them access to more features and functions that regular users cannot access via subscription
+
+
+
+What the user should see: On homepage, user should see buttons to take him or her to a portal where they can sign in, read info about the program, etc.
+Once they have signed in, they can access portals to submit their workouts, access tips, etc. Website should have about 5-7 pages total
